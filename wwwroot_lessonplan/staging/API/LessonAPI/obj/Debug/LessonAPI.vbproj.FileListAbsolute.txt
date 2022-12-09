@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\bin\LessonAPI.dll.config
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\bin\LessonAPI.dll
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\bin\LessonAPI.pdb
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\bin\LessonAPI.xml
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.vbprojAssemblyReference.cache
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.Resources.resources
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.vbproj.GenerateResource.cache
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.vbproj.CopyComplete
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.dll
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.xml
+C:\inetpub\wwwroot_lessonplan\staging\API\LessonAPI\obj\Debug\LessonAPI.pdb

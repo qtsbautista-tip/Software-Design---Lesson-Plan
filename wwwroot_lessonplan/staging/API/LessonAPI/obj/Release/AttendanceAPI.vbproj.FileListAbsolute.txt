@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\bin\AttendanceAPI.dll.config
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\bin\AttendanceAPI.dll
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\bin\AttendanceAPI.pdb
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\bin\AttendanceAPI.xml
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.vbprojAssemblyReference.cache
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.Resources.resources
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.vbproj.GenerateResource.cache
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.vbproj.CopyComplete
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.dll
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.xml
+C:\inetpub\wwwroot_timekeeping\staging\API\AttendanceAPI\obj\Release\AttendanceAPI.pdb

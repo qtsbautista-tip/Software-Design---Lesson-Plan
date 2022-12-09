@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\build\wwwroot_timekeeping\staging\API\AttendanceAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>09/06/2021 17:31:16</publishTime>
+    </File>
+    <File Include="AccountingAPI_trading.Publish.xml">
+      <publishTime>07/31/2021 01:25:10</publishTime>
+    </File>
+    <File Include="Account_Detail.ashx">
+      <publishTime>01/23/2022 10:31:58</publishTime>
+    </File>
+    <File Include="AcctEntry.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Acctentry_Balance.ashx">
+      <publishTime>06/09/2021 17:30:52</publishTime>
+    </File>
+    <File Include="Acctentry_viewdetail.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Accumulated_Balance.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Accumulated_Income.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Acquisition.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="AgentFile.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Agent_Commission.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="AllUnpaidInv.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="AllUnpaidVP.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="APAging_Acctentry.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="APAging_RRsumm.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ArAging_Acctentry.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ArAging_Salefile.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Area_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="AR_target.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Assets_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Assets_Location.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Assets_Maintenance.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Assets_Software.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Assets_Transfer.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="AssetType.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="AttendanceAPI.Publish.xml">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="AutoJournal.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="BalanceSheet.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Bank_Recon.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="BillOfMaterials.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="bin/AccountingAPI_trading.dll">
+      <publishTime>01/22/2022 22:15:24</publishTime>
+    </File>
+    <File Include="bin/AccountingAPI_trading.pdb">
+      <publishTime>01/22/2022 22:15:24</publishTime>
+    </File>
+    <File Include="bin/AccountingAPI_trading.xml">
+      <publishTime>01/22/2022 22:15:24</publishTime>
+    </File>
+    <File Include="bin/AttendanceAPI.dll">
+      <publishTime>08/09/2022 12:14:23</publishTime>
+    </File>
+    <File Include="bin/AttendanceAPI.pdb">
+      <publishTime>08/09/2022 12:14:23</publishTime>
+    </File>
+    <File Include="bin/AttendanceAPI.xml">
+      <publishTime>08/09/2022 12:14:23</publishTime>
+    </File>
+    <File Include="bin/CatalogAPI.dll">
+      <publishTime>05/26/2022 12:33:51</publishTime>
+    </File>
+    <File Include="bin/CatalogAPI.pdb">
+      <publishTime>05/26/2022 12:33:51</publishTime>
+    </File>
+    <File Include="bin/CatalogAPI.xml">
+      <publishTime>05/26/2022 12:33:51</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 14:22:24</publishTime>
+    </File>
+    <File Include="Branch.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CashReceipt.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CashVoucher.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Cash_Position.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CatalogAPI.Publish.xml">
+      <publishTime>01/23/2022 10:30:43</publishTime>
+    </File>
+    <File Include="CategoryM_File.ashx">
+      <publishTime>01/23/2022 17:43:58</publishTime>
+    </File>
+    <File Include="Category_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Category_FixedAssets.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Category_mfg.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ChartOfAccount.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CheckVoucher.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Collection_mfg.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Color_mfg.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ComputeUnbalanceEntries.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CopyFile.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CostCenter.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Currency_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Cusmast.ashx">
+      <publishTime>05/20/2022 17:33:44</publishTime>
+    </File>
+    <File Include="Customer.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="CustomerBegbal.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="DeliveryInvoicing.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Department_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="DepositPosting.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Depreciation.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Designer_mfg.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Discount_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="DTR_Posting.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Emap.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="EmployeeFile.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="eSignature.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ExpenseBudget.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ExpenseBudget_Comparative.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ForwardInventory.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="GeneralAccount.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="GeneralJournal.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="GeneralLedger.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="IncomeStatement.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="IncomeStatement_Comparative.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="IncomeStatement_prev.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="IncomeStatement_quarterly.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="IncomeStatement_year.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Inquiry.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Inventory_Adjustment.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Inventory_Dashboard.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Inventory_Report.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ItemClassification.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Items_Sale_Comparative_Amount.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Item_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="JobOrder.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Location.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Messages.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="monthly_AP.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="monthly_AR.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="OrderApproval.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Payables.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PdcPosting.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PDC_Supplier.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PLDetails.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PLSummary.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PostGL_Frontdesk.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PostGL_Frontdesk_IMPORTXLS.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PostGL_Resto.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PostGL_Resto_IMPORTXLS.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PO_Payment.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PreOrder_Summary.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ProductEndingBalance.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ProductInventory.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ProductProfit.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ProductProfitAccount.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Product_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PurchaseOrder.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PurchaseRequisition.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="PurchaseReturn.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="QuotationApproval.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ReceivingReport.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Reporting.ashx">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="Request_Roll.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ResetInventory.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ResetPreOrderOnline.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="ReturnGoods.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="SalesInvoice_byCatcode.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="SalesJournal.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="SalesOrder.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="SalesOrder_Online.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="SalesQuotation.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="SalesReport_perBank.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Schedule_AP.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>09/06/2021 17:31:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>09/06/2021 17:31:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>09/06/2021 17:31:22</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/30/2022 20:29:23</publishTime>
+    </File>
+    <File Include="StatementOfAccount.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="StockCard.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="StorageLocation.config">
+      <publishTime>05/16/2022 23:52:57</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>09/06/2021 17:31:22</publishTime>
+    </File>
+    <File Include="SupMast.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Supplier.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="TaskFile.ashx">
+      <publishTime>07/30/2022 23:34:32</publishTime>
+    </File>
+    <File Include="TBofTransaction.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="TransactionLog.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Transfer_Branches.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Transfer_Warehouse.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="TrialBalance.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Trucking.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Unit_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Unpaid_Inv_PerCust.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Unpaid_VP_perSup.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="UploadResources.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="User_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="VatReport.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="VoucherPayable.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="VPRegister.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Warehouse_File.ashx">
+      <publishTime>01/23/2022 10:31:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/31/2022 19:49:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

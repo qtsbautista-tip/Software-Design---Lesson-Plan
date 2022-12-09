@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.dll.config
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.dll
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.pdb
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.xml
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.vbprojAssemblyReference.cache
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.Resources.resources
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.vbproj.GenerateResource.cache
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.vbproj.CopyComplete
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.dll
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.xml
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Release\AccountingAPI_trading.pdb

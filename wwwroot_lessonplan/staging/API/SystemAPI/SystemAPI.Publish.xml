@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\build\wwwroot_warehouse\staging\API\SystemAPI" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="StorageLocation.config" publishTime="07/01/2021 23:51:59" />
+    <file relUrl="Global.asax" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="Site.Master" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="GetImage.ashx" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="no-image.png" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="UploadImage.ashx" publishTime="06/09/2021 17:31:26" />
+    <file relUrl="GetAllFiles.ashx" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="DeleteFile.ashx" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="06/09/2021 17:31:30" />
+    <file relUrl="Sysconfig.ashx" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="UserTable.ashx" publishTime="06/09/2021 17:31:26" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="06/09/2021 17:31:30" />
+    <file relUrl="UploadFile.ashx" publishTime="06/09/2021 17:31:26" />
+    <file relUrl="AuditLog.ashx" publishTime="06/09/2021 17:31:22" />
+    <file relUrl="Default.aspx" publishTime="06/09/2021 17:31:22" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="06/09/2021 17:31:30" />
+    <file relUrl="GetAllImages.ashx" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="bin/SystemAPI.pdb" publishTime="07/11/2021 00:13:53" />
+    <file relUrl="AccessFile.ashx" publishTime="06/09/2021 17:31:22" />
+    <file relUrl="bin/SystemAPI.xml" publishTime="07/11/2021 00:13:53" />
+    <file relUrl="ImportData.ashx" publishTime="06/09/2021 17:31:24" />
+    <file relUrl="AccessPermission.ashx" publishTime="06/09/2021 17:31:22" />
+    <file relUrl="bin/SystemAPI.dll" publishTime="07/11/2021 00:13:53" />
+    <file relUrl="UserRights.ashx" publishTime="06/09/2021 17:31:26" />
+    <file relUrl="Web.config" publishTime="07/01/2021 23:27:46" />
+    <file relUrl="ImageLocation.config" publishTime="07/02/2021 00:00:07" />
+    <file relUrl="UserProgramRight.ashx" publishTime="06/09/2021 17:31:26" />
+    <file relUrl="SendViaSMTP.ashx" publishTime="06/09/2021 17:31:24" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,98 @@
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\bin\AccountingAPI.dll
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\bin\AccountingAPI.pdb
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\bin\AccountingAPI.xml
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\bin\Newtonsoft.Json.pdb
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\bin\Newtonsoft.Json.xml
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\obj\Debug\AccountingAPI.Resources.resources
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\obj\Debug\AccountingAPI.dll
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\obj\Debug\AccountingAPI.xml
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\AccountingAPI_trading\obj\Debug\AccountingAPI.pdb
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.dll
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.pdb
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.xml
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.pdb
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.xml
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.Resources.resources
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.dll
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.xml
+C:\Users\Syscom\Desktop\ACCTG CONSTRUCTION\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.pdb
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.dll
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.pdb
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.xml
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.pdb
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.Resources.resources
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.dll
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.xml
+C:\inetpub\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.pdb
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.dll
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.pdb
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.xml
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.pdb
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.Resources.resources
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.dll
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.xml
+C:\inetpub\wwwroot_asisco\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.pdb
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.dll
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.pdb
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI.xml
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.Resources.resources
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.dll
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.xml
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI.pdb
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_asisco\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.pdb
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.Resources.resources
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI_trading.dll
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI_trading.pdb
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI_trading.xml
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.dll
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.xml
+C:\Users\lenovo\Desktop\syscom\SYSCOM\wwwroot_orchestra\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.pdb
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI_trading.dll
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI_trading.pdb
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\bin\AccountingAPI_trading.xml
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.Resources.resources
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.dll
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.xml
+X:\wwwroot_orchestra\staging\SYSCOM_API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.pdb
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.dll
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.pdb
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.xml
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojResolveAssemblyReference.cache
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.Resources.resources
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.Cache
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.dll
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.xml
+X:\wwwroot_orchestra\staging\SYSCOM_RV\reportviewer_resto_old\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.pdb
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.dll.config
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.dll
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.pdb
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\AccountingAPI_trading.xml
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.Resources.resources
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.GenerateResource.cache
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbproj.CopyComplete
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.dll
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.xml
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.pdb
+C:\inetpub\wwwroot_warehouse\staging\API\AccountingAPI_trading\obj\Debug\AccountingAPI_trading.vbprojAssemblyReference.cache
